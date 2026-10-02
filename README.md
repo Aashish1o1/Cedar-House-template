@@ -6,7 +6,7 @@ Designed for hotels, resorts, boutique stays, homestays, villas, guesthouses and
 
 ## Live Demo
 
-[View Live Demo](YOUR-VERCEL-URL)
+[View Live Demo](https://hoteltemplate-sepia.vercel.app/)
 
 ## Features
 
